@@ -1,2 +1,3 @@
 # salt_lake_county_mobility_patterns
-Extraction of mobility patterns from SafeGraph data
+
+![Screenshot](safegraph_POI_banner.png)
