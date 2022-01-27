@@ -4,6 +4,8 @@
 
 This work will focus on capturing the urban mobility patterns, resulting in the so-called origin/destination matrices (O/D). The methods were applied on a free sample dataset from the foot traffic tracking company SafeGraph. As the company only performs such studies on American citizens, Salt Lake County was preferred due to its moderate population of approximately 1 million residents and its dynamic movement patterns. 
 
+SafeGraph dataset: https://www.safegraph.com/products/patterns
+
 The proportion of residents moving from one census block to another was done by dividing the number of mobile devices in the sample by the total number of devices in each census block group. As the preprocessing step was finished, five origin/destinationO/D matrices were produced from the original SafeGraph dataset, one for each
 investigated time interval:
 
